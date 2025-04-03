@@ -29,14 +29,25 @@
                     <img src="Injective Symbol - White.png" alt="Logo" width="48px">
                     <p class="mt-1">Warrior of Injective</p>
                 </div>
+                <div class="flex flex-row items-center">
+                    •
+                    <img src="swapcoffee.png" alt="Logo" width="36px">
+                    <p class="mt-1">swap.coffee Ambassador</p>
+                </div>
+                <div class="flex flex-row items-center">
+                    •
+                    <img src="stonfi.png" alt="Logo" width="34px">
+                    <p class="mt-1">STON.fi Ambassador</p>
+                </div>
             </div>
         </div>
         <div class="widgets w-full h-[96vh] md:w-1/2 md:h-full bg-gray-800/30 rounded-4xl backdrop-blur-[2px] border border-gray-500 p-8 mx-auto grid max-w-full grid-cols-1 gap-4 md:auto-rows-[12rem] md:grid-cols-3">
-            <Widget name="Post" description="Post" style="bg-black" url="https://x.com/ludohacker/status/1897262865720996342"><SiX size={64}/></Widget>
-            <Widget name="Post" description="Post" style="bg-black" url=""><SiX size={64}/></Widget>
-            <Widget name="Post" description="Post" style="bg-black" url=""><SiX size={64}/></Widget>
-            <Widget name="Post" description="Post" style="bg-black" url=""><SiX size={64}/></Widget>
-            <Widget name="Post" description="Post" style="bg-black" url=""><SiX size={64}/></Widget>
+            <Widget name="Post" description="Post" style="bg-black" url="https://x.com/ludohacker/status/1894779874620985391"><SiX size={58}/></Widget>
+            <Widget name="Post" description="Post" style="bg-black" url="https://x.com/ludohacker/status/1907719404969656576"><SiX size={58}/></Widget>
+            <Widget name="Post" description="Post" style="bg-black" url="https://x.com/ludohacker/status/1907131239611469941"><SiX size={58}/></Widget>
+            <Widget name="Post" description="Post" style="bg-black" url="https://x.com/ludohacker/status/1907012662182936968"><SiX size={58}/></Widget>
+            <Widget name="Post" description="Post" style="bg-black" url="https://x.com/ludohacker/status/1892326840729293246"><SiX size={58}/></Widget>
+            <Widget name="Post" description="Post" style="bg-black" url="https://x.com/ludohacker/status/1891831540436414541"><SiX size={58}/></Widget>
         </div>
     </div>
 </main>
