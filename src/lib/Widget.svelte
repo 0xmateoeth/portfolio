@@ -8,7 +8,7 @@
             {@render children?.()}
         </div>
         <div class="h-fit">
-            <p class="text-3xl font-bold">{name}</p>
+            <p class="text-2xl font-bold">{name}</p>
             <p class="text-sm">{description}</p>
         </div>
     </div>
